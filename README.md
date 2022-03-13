@@ -1,4 +1,4 @@
 # ytplay
 now with dmenu
 * requires
-dmenu, mpv
+dmenu, mpv and youtube-dl
